@@ -1,6 +1,6 @@
 # Hey, I’m Mariam 👋
 
-Third-year Cybersecurity student at Al Ain University, UAE. I got into this field sideways and somewhere along the way it actually stuck.
+I'm a third-year Cybersecurity student at Al Ain University, I got into this field sideways and somewhere along the way it actually stuck.
 
 I lean toward **red teaming and ethical hacking**, with a growing interest in cybercrime research. Outside of coursework I spend a lot of time breaking things on purpose, reading about malware I had no hand in writing, and advocating loudly (if only to myself) for FOSS.
 
@@ -44,4 +44,4 @@ A writeup on installing Fedora on a 2025 HP Victus with an RTX 5060 Max-Q and a 
 
 -----
 
-*Based in the UAE. Open to internship opportunities in cybersecurity.*
+*Based in Abu Dhabi, UAE. Open to internship opportunities in cybersecurity.*
