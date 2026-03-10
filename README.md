@@ -1,6 +1,6 @@
 # Hey, I’m Mariam Elshoura 👋
 
-Third-year Cybersecurity student at Al Ain University, UAE. I got into this field sideways — through genuine curiosity rather than a career plan — and somewhere along the way it actually stuck.
+Third-year Cybersecurity student at Al Ain University, UAE. I got into this field sideways and somewhere along the way it actually stuck.
 
 I lean toward **red teaming and ethical hacking**, with a growing interest in cybercrime research. Outside of coursework I spend a lot of time breaking things on purpose, reading about malware I had no hand in writing, and advocating loudly (if only to myself) for FOSS.
 
