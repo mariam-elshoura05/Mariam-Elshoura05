@@ -1,4 +1,4 @@
-# Hey, I’m Mariam 👋
+# Hey, I’m Mariam ✨
 
 I'm a third-year Cybersecurity student at Al Ain University, I got into this field sideways and somewhere along the way it actually stuck.
 
