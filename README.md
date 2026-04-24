@@ -44,7 +44,7 @@ I lean toward **offensive security and security research**, with a growing inter
 ### 🐧 [Fedora 43 KDE on HP Victus with RTX 5060](https://github.com/mariam-elshoura05/fedora-rtx5060-victus)
 
 A writeup on installing Fedora on a 2025 HP Victus with an RTX 5060 Max-Q and a Realtek WiFi card that really did not want to cooperate. Covers NVIDIA open drivers, offline kernel module installation, and hybrid graphics setup. Written because I couldn’t find this information anywhere and someone had to.
-- 📝 Updating the Fedora writeup with things I missed the first time
+> Updates pending - turns out the saga doesn't end there.
 
 -----
 
